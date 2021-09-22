@@ -1,0 +1,2 @@
+nome,ra,turma
+Alexandre,2100416,23
