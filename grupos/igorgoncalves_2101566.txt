@@ -1,2 +1,2 @@
-nome, ra, grupo
-Igor Goncalves, 2101566, 23
+nome,ra,grupo
+Igor Goncalves,2101566,23
