@@ -14,7 +14,7 @@ Com base nesta lista os alunos receberão as notas e presenças.
 
     EX: joaosilva_1234,mariaduarte_4221,josepassos_12345 </b>
 ```
-git clone https://github.com/danilosousadba/impacta-bi21.git
+git clone https://github.com/danilosousadba/impacta-bi22-23.git
 git checkout -b joaosilva_1234
 ```
 <b>OU DIRETAMENTE PELO SITE</b>
