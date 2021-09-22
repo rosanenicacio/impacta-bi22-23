@@ -1,0 +1,2 @@
+nome,ra,grupo
+Gustavo Tadeu,2100566,23
