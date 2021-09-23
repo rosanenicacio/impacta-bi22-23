@@ -1,0 +1,2 @@
+nome,ra,grupo
+Cassio Teixeira Novaes,2100474,23
