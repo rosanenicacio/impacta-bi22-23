@@ -1,2 +1,2 @@
 nome,ra,grupo
-Luccas Del Mastro Garcia,2101645,23
+Luccas Del Mastro Garcia,2101645,23 
