@@ -1,0 +1,2 @@
+nome,ra,grupo
+Amanda Santos,2100664,23
