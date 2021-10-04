@@ -1,0 +1,2 @@
+nome,ra,grupo
+miguel,2100810,bi23
