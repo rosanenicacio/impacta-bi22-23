@@ -1,0 +1,2 @@
+nome,ra,grupo
+Leticia Liane Kameoka,2101490,23
