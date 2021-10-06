@@ -1,0 +1,2 @@
+nome,ra,grupo
+Igor Goncalves,2101566,23
